@@ -10,25 +10,26 @@ import IMG6 from "../../assets/img/work12.png";
 const data=[
   {
     id:1,
+    image:IMG3,
+    title:"Full Stack Clockify-App-Clone",
+    github:"https://github.com/hitesht4/legit-dust-8169",
+    demo:"https://mernwallaparbhatsinghnamtosun.herokuapp.com/"
+  },
+  {
+    id:2,
     image:IMG1,
     title:"Rodan-Field Clone",
     github:"https://github.com/pallu2108/Rodan-Field-Clone-2",
     demo:"https://cool-khapse-fa2715.netlify.app/"
   },
   {
-    id:2,
+    id:3,
     image:IMG2,
     title:"BATH & BODY Clone",
     github:"https://github.com/prabhattopi/ProjectUnit3-Bath-Body",
     demo:"https://beamish-palmier-e5b41f.netlify.app/"
   },
-  {
-    id:3,
-    image:IMG3,
-    title:"Shipping page with Validation",
-    github:"https://github.com/prabhattopi/ProjectUnit3-Bath-Body/tree/master/Pcheckout",
-    demo:"https://beamish-palmier-e5b41f.netlify.app/pcheckout/1"
-  },
+  
   {
     id:4,
     image:IMG4,
