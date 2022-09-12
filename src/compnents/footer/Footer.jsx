@@ -3,6 +3,9 @@ import "./foot.css"
 import {FaFacebookF} from "react-icons/fa"
 import {FiInstagram} from "react-icons/fi"
 import {IoLogoTwitter} from "react-icons/io"
+import {BsLinkedin} from "react-icons/bs"
+import {FaGithub} from "react-icons/fa"
+import {FiDribbble} from "react-icons/fi"
 const Footer = () => {
   return (
     <footer>
@@ -22,9 +25,12 @@ const Footer = () => {
          
       </ul>
       <div className="footer__socials">
+        <a href="https://www.linkedin.com/in/prabhat-singh-71296721b/" target="_blank"><BsLinkedin/></a>
+        <a href="https://github.com/prabhattopi" target="_blank"><FaGithub/></a>
         <a href="https://www.facebook.com/profile.php?id=100080030157284"><FaFacebookF/></a>
         <a href="https://instagram.com"><FiInstagram/></a>
         <a href="https://twitter.com/NumericalWallah"><IoLogoTwitter/></a>
+        <a href="https://dribble.com" target="_blank"><FiDribbble/></a>
         {/* <a href="https://facebook.com"></a> */}
 
 

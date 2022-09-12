@@ -17,31 +17,20 @@
 }
 .about__me-image{
     background:transparent;
-
     border-radius: 50%;
     overflow: hidden;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    transform: rotate(-5deg);
-    -webkit-transform: rotate(-5deg);
-    -moz-transform: rotate(-5deg);
-    -ms-transform: rotate(-5deg);
-    -o-transform: rotate(-5deg);
+
     transition: var(--transition);
     -webkit-transition: var(--transition);
     -moz-transition: var(--transition);
     -ms-transition: var(--transition);
     -o-transition: var(--transition);
 }
-.about__me-image:hover{
-    transform: rotate(0deg);
-    -webkit-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-}
+
 .about__cards{
     display: grid;
     grid-template-columns: repeat(2,1fr);
