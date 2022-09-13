@@ -1,6 +1,6 @@
-### Hello Everyone Welcome to My Portfolio
+## Hello Everyone Welcome to My Portfolio 👋👋👋
 
-## In This Portfolio You Have Seen The following Components
+### In This Portfolio You Have Seen The following Components
 
 # Header
 # Navbar
