@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da6cef4b.css",
+    "main.js": "/static/js/main.2498b814.js",
+    "static/media/work5.png": "/static/media/work5.8c20a96b70f0d2429808.png",
+    "static/media/work12.png": "/static/media/work12.690bdf07576fa96b6ec8.png",
+    "static/media/Prabhat_Singh_Resume_12-09-2022-20-13-30.pdf": "/static/media/Prabhat_Singh_Resume_12-09-2022-20-13-30.f1e1bf8aed6ad4de9c8f.pdf",
+    "static/media/work2.png": "/static/media/work2.92f9690e50d038347221.png",
+    "static/media/work4.png": "/static/media/work4.ef556d7e8e80904a2b10.png",
+    "static/media/work1.png": "/static/media/work1.f7f03b55df794e3945bc.png",
+    "static/media/ddd..jpg": "/static/media/ddd..6df261e61e2a9fb88ff6.jpg",
+    "static/media/work8.png": "/static/media/work8.20854c9c62cec0b779f2.png",
+    "index.html": "/index.html",
+    "main.da6cef4b.css.map": "/static/css/main.da6cef4b.css.map",
+    "main.2498b814.js.map": "/static/js/main.2498b814.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6cef4b.css",
+    "static/js/main.2498b814.js"
+  ]
+}
