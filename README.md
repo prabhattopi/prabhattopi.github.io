@@ -12,7 +12,7 @@
 # Testimonials(optional)
 
 # Header: 
-<p>Header section has <h1>My name</h1> and social link which is visible for large and medium screen for the samll you might get this link in footer. And also This Section has a my profile photo and scrolling opition.
+<p>Header section has <h5>My name</h5> and social link which is visible for large and medium screen for the samll you might get this link in footer. And also This Section has a my profile photo and scrolling opition.
 </p>
 
 # Navbar :
