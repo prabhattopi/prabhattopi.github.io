@@ -117,6 +117,55 @@ const Experience = () => {
        
       </div>
     </div>
+    <div className='experience__backend'>
+      <h3>Soft Skills</h3>
+    <div className="experience__content">
+        <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+      <div>
+      <h4>Problem Solving (DSA)</h4>
+      <small className='text-light'>Intermediate</small>
+      </div>
+        </article>
+        <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+       <div>
+      <h4>Adaptability</h4>
+      <small className='text-light'>Intermediate</small>
+      </div>
+        </article>
+        <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+      <div>
+      <h4>Remote And Team Work</h4>
+      <small className='text-light'>Intermediate</small>
+      </div>
+        </article>
+        <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+       <div>
+      <h4>Communication</h4>
+      <small className='text-light'>Intermediate</small>
+      </div>
+        </article>
+        {/* <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+      <div>
+      <h4>My SQL</h4>
+      <small className='text-light'>Basics</small>
+      </div>
+        </article>
+        <article className='experience__details'>
+      <BsPatchCheckFill className='experience__details-icon'/>
+      <div>
+      <h4>Python</h4>
+      <small className='text-light'>Begginner</small>
+      </div>
+        </article>
+       
+        */}
+      </div>
+    </div>
    </div>
     </section>
   )
