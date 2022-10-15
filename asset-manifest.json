@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dfdc3d82.css",
-    "main.js": "/static/js/main.3117fd4d.js",
+    "main.js": "/static/js/main.a4524dad.js",
     "static/media/work5.png": "/static/media/work5.8c20a96b70f0d2429808.png",
     "static/media/work12.png": "/static/media/work12.690bdf07576fa96b6ec8.png",
     "static/media/Prabhat_Singh_Resume_22-09-2022-15-00-54.pdf": "/static/media/Prabhat_Singh_Resume_22-09-2022-15-00-54.215ef10291e6556269e9.pdf",
@@ -13,10 +13,10 @@
     "static/media/work8.png": "/static/media/work8.20854c9c62cec0b779f2.png",
     "index.html": "/index.html",
     "main.dfdc3d82.css.map": "/static/css/main.dfdc3d82.css.map",
-    "main.3117fd4d.js.map": "/static/js/main.3117fd4d.js.map"
+    "main.a4524dad.js.map": "/static/js/main.a4524dad.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdc3d82.css",
-    "static/js/main.3117fd4d.js"
+    "static/js/main.a4524dad.js"
   ]
 }
