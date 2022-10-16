@@ -12,7 +12,7 @@ const data=[
     id:1,
     image:IMG5,
     title:"Full-Stack Story Book",
-    description:"This is an Individual Project of a Story book Application Where you can *CRUD* your stories and also make it Public and Private with GoogleOAuth2.O Authuntication.",
+    description:"This is an individual project of a story book application where you can *CRUD* your stories and also make them public or private with GoogleOAuth2. O Authuntication",
     tech_stack:["Nodejs","Expressjs","Handlebars","MongoDB","GoogleAuth2.O","CSS","Materialize-UI","GIT","Heroku"],
 
 github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOAUthMERN",
@@ -22,7 +22,7 @@ github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOA
     id:2,
     image:IMG3,
     title:"Full Stack Clockify-App-Clone",
-    description:"This is a collaborative Project.Clockify is 100% free Time-Tracker App Where You Can *CRUD* Your time in effecient manner with Advance-user JWT Authorization.",
+    description:"This is a collaborative project. Clockify is a completely free Time-Tracker App that allows you to *CRUD* your time efficiently using advanced-user JWT Authorization.",
     tech_stack:["Nodejs","Expressjs","MongoDB","Firebase","React","Redux-Tookit","Chakra-UI","React-Bootstrap","CSS","GIT","Heroku"],
     github:"https://github.com/hitesht4/legit-dust-8169",
     demo:"https://mernwallaparbhatsinghnamtosun.herokuapp.com/"
@@ -31,7 +31,7 @@ github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOA
     id:3,
     image:IMG1,
     title:"Rodan-Field Clone",
-    description:"This is a collaborative Project of Beauty Products, where you can Buy , Pay and get delivered to your home also. ",
+    description:"This is a collaborative project of beauty products, where you can buy, pay, and get delivered to your home.",
     tech_stack:["HTML","CSS","Javascript","Git"],
     github:"https://github.com/pallu2108/Rodan-Field-Clone-2",
     demo:"https://cool-khapse-fa2715.netlify.app/"
@@ -40,7 +40,7 @@ github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOA
     id:4,
     image:IMG2,
     title:"BATH & BODY Clone",
-    description:"This is a collaborative Project of Beauty Products, where you can Buy , Pay and get delivered to your home also. ",
+    description:"This is a collaborative project of beauty products, where you can buy, pay, and get delivered to your home.",
     tech_stack:["HTML","CSS","Javascript","Git"],
     github:"https://github.com/prabhattopi/ProjectUnit3-Bath-Body",
     demo:"https://beamish-palmier-e5b41f.netlify.app/"
@@ -50,7 +50,7 @@ github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOA
     id:5,
     image:IMG4,
     title:"YouTube Clone",
-    description:"This is a Individual Project of partial Clone of You-Tube",
+    description:"This is an individual project of a partial clone of You-Tube.",
     tech_stack:["HTML","CSS","Javascript","Git"],
     github:"https://github.com/prabhattopi/Unit-3_Swanand/tree/master/Day9/Youtube",
     demo:"https://youtubeprabhatwalla.netlify.app/"
@@ -59,7 +59,7 @@ github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOA
     id:6,
     image:IMG6,
     title:"Movie App",
-    description:"This is a Individual Project Where you can search your favourite movie and having Debouncing features",
+    description:"This is an individual project where you can search for your favourite movie and have debouncing features.",
     tech_stack:["HTML","CSS","Javascript","Git"],
     github:"https://github.com/prabhattopi/Unit-3_Swanand/tree/master/Day8/movie",
     demo:"https://munnamovie.netlify.app/"

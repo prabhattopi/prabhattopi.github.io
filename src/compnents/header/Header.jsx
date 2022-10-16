@@ -1,6 +1,6 @@
 import React from 'react'
 import CTA from './CTA'
-import ME from "../../assets/img/perfil.jpg"
+import ME from "../../assets/img/header-img.svg"
 import "./header.css"
 import HeaderSocial from './HeaderSocial'
 const Header = () => {
@@ -11,7 +11,7 @@ const Header = () => {
         Hello I'm
       </h5>
       <h1>Prabhat Singh</h1>
-      <h5 className="text-light">
+      <h5 className="text-light" style={{fontSize:"18px"}}>
         Full Stack Web Developer
       </h5>
        <CTA/>

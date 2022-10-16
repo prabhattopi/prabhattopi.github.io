@@ -8,6 +8,7 @@ import Nav from './compnents/nav/Nav'
 import Portfolio from './compnents/portofolio/Portfolio'
 import Services from './compnents/services/Services'
 import Testimonials from './compnents/testimonials/Testimonials'
+import {GitHub} from "./compnents/Calender/GitHub"
 import "./index.css"
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
   <Services/>
   <Portfolio/>
   {/* <Testimonials/> */}
+  <GitHub/>
   <Contact/>
   <Footer/>
 

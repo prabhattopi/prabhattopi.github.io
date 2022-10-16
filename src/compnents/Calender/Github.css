@@ -1,0 +1,66 @@
+.github{
+    color: rgb(253, 245, 247);
+
+}
+.react-activity-calendar__footer.styles_footer__ltlVl{
+  
+background-color:transparent;
+height:100px;
+}
+
+.github__cards{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    gap: 1.5rem;
+    align-items: center;
+    
+    margin-top: 1.5rem;
+}
+.github__card{
+    background: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    padding: 0.5rem;
+    text-align: center;
+    transition: var(--transition);
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+}
+.github__card:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+
+}
+
+
+@media screen and (max-width:1024px){
+   
+    .github__cards{
+        grid-template-columns:1fr;
+        gap:0;
+    }
+    
+  }
+  @media screen and (max-width:600px){
+ 
+
+  .github__cards{
+ 
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    
+}
+ 
+    
+  }
+  

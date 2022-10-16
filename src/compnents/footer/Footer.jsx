@@ -27,9 +27,9 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/prabhat-singh-71296721b/" target="_blank"><BsLinkedin/></a>
         <a href="https://github.com/prabhattopi" target="_blank"><FaGithub/></a>
-        <a href="https://www.facebook.com/profile.php?id=100080030157284"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
-        <a href="https://twitter.com/NumericalWallah"><IoLogoTwitter/></a>
+        <a href="https://www.facebook.com/profile.php?id=100080030157284" target="_blank"><FaFacebookF/></a>
+        <a href="https://instagram.com" target="_blank"><FiInstagram/></a>
+        <a href="https://twitter.com/NumericalWallah" target="_blank"><IoLogoTwitter/></a>
         <a href="https://dribble.com" target="_blank"><FiDribbble/></a>
         {/* <a href="https://facebook.com"></a> */}
 

@@ -35,7 +35,7 @@ const About = () => {
           </article>
         </div>
         <p>
-        Welcome to my profile. I am a Full Stack Web Developer. I've been very glad to study at Masai School for my Full Stack Web Development course because it's a place where a person get skilled within 6 months. Apart from my studies, I love to watch and play cricket. Moreover, I like playing video games. I enjoy solving challenging problems of DSA and coding, as well as teaching problems of DSA and coding. In my family, My father is a businessman and my mother is a homemaker. I love to spend my time with family whenever I have free time from my work. I am also a true fan of Lord Krishna.
+        A Full-Stack Web Developer with 1000+ hours of hands-on coding experience, looking for new challenges to tackle and acquire new skills simultaneously. A quick learner who can adapt to new situations, with expertise in both front-end and back-end development. Handles any part of the process with ease, and also has remote collaboration and teamwork with 4+ projects.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
