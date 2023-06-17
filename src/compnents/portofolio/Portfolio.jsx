@@ -21,11 +21,11 @@ github:"https://github.com/prabhattopi/frazzoUI",
   {
     id:2,
     image:IMG3,
-    title:"Full Stack Clockify-App-Clone",
-    description:"This is a collaborative project. Clockify is a completely free Time-Tracker App that allows you to *CRUD* your time efficiently using advanced-user JWT Authorization.",
-    tech_stack:["Nodejs","Expressjs","MongoDB","Firebase","React","Redux-Tookit","Chakra-UI","React-Bootstrap","CSS","GIT","Heroku"],
-    github:"https://github.com/hitesht4/legit-dust-8169",
-    demo:"https://mernwallaparbhatsinghnamtosun.herokuapp.com/"
+    title:"Full Stack IT Walle",
+    description:"As part of this project, I am designing a record storage system for IT professionals",
+    tech_stack:["Nodejs","Expressjs","MongoDB","React","Redux-Toolkit","Tailwind CSS","CSS","GIT","render"],
+    github:"https://github.com/prabhattopi/crudApp",
+    demo:"https://crud-app-lemon.vercel.app"
   },
   {
     id:3,
