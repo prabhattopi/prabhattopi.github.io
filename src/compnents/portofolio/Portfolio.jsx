@@ -11,12 +11,12 @@ const data=[
   {
     id:1,
     image:IMG5,
-    title:"Full-Stack Story Book",
-    description:"This is an individual project of a story book application where you can *CRUD* your stories and also make them public or private with GoogleOAuth2. O Authuntication",
-    tech_stack:["Nodejs","Expressjs","Handlebars","MongoDB","GoogleAuth2.O","CSS","Materialize-UI","GIT","Heroku"],
+    title:"Fraazo Clone",
+    description:"It is a collaborative project that aims to develop an online fruit and vegetable store. ",
+    tech_stack:["Nodejs","Expressjs","React","MongoDB","CSS","Material-UI","JWT","GIT","render"],
 
-github:"https://github.com/prabhattopi/feeel_of_Projectswallah/tree/pro/GoogleOAUthMERN",
-    demo:"https://sleepy-hollows-03529.herokuapp.com/"
+github:"https://github.com/prabhattopi/frazzoUI",
+    demo:"https://frazzo-ui-prabhattopi.vercel.app"
   },
   {
     id:2,
