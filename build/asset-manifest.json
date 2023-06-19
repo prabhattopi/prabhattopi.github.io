@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.dfdc3d82.css",
-    "main.js": "/static/js/main.9da4c0f0.js",
+    "main.js": "/static/js/main.e59f166f.js",
     "static/media/work5.png": "/static/media/work5.8c20a96b70f0d2429808.png",
+    "static/media/work8.png": "/static/media/work8.0b4eb6a2d8eb97020bab.png",
     "static/media/work12.png": "/static/media/work12.690bdf07576fa96b6ec8.png",
-    "static/media/Prabhat_Singh_Resume_16-10-2022-17-39-14.pdf": "/static/media/Prabhat_Singh_Resume_16-10-2022-17-39-14.33cf3c580918f3e72014.pdf",
+    "static/media/Prabhat_Singh_Resume_17-06-2023-09-20-42.pdf": "/static/media/Prabhat_Singh_Resume_17-06-2023-09-20-42.87c70b0631ef5116feef.pdf",
     "static/media/work2.png": "/static/media/work2.92f9690e50d038347221.png",
     "static/media/header-img.svg": "/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
-    "static/media/work4.png": "/static/media/work4.ef556d7e8e80904a2b10.png",
     "static/media/work1.png": "/static/media/work1.f7f03b55df794e3945bc.png",
     "static/media/ddd..jpg": "/static/media/ddd..6df261e61e2a9fb88ff6.jpg",
-    "static/media/work8.png": "/static/media/work8.20854c9c62cec0b779f2.png",
+    "static/media/work4.png": "/static/media/work4.1a80d86756d422d14fa9.png",
     "index.html": "/index.html",
     "main.dfdc3d82.css.map": "/static/css/main.dfdc3d82.css.map",
-    "main.9da4c0f0.js.map": "/static/js/main.9da4c0f0.js.map"
+    "main.e59f166f.js.map": "/static/js/main.e59f166f.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdc3d82.css",
-    "static/js/main.9da4c0f0.js"
+    "static/js/main.e59f166f.js"
   ]
 }

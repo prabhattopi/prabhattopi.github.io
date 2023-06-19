@@ -23,18 +23,18 @@ github:"https://github.com/prabhattopi/frazzoUI",
     image:IMG3,
     title:"Full Stack IT Walle",
     description:"As part of this project, I am designing a record storage system for IT professionals",
-    tech_stack:["Nodejs","Expressjs","MongoDB","React","Redux-Toolkit","Tailwind CSS","CSS","GIT","render"],
+    tech_stack:["Nodejs","Expressjs","MongoDB","React","Context-API","Tailwind CSS","CSS","GIT","render"],
     github:"https://github.com/prabhattopi/crudApp",
     demo:"https://crud-app-lemon.vercel.app"
   },
   {
     id:3,
     image:IMG1,
-    title:"Rodan-Field Clone",
-    description:"This is a collaborative project of beauty products, where you can buy, pay, and get delivered to your home.",
-    tech_stack:["HTML","CSS","Javascript","Git"],
-    github:"https://github.com/pallu2108/Rodan-Field-Clone-2",
-    demo:"https://cool-khapse-fa2715.netlify.app/"
+    title:"Full Stack Image Gallery",
+    description:"I am working on this project for personal purposes in order to collect beautiful pictures",
+    tech_stack:["React","DaisyUI","Context-API","Tailwind CSS","Firebase","Fire-store","Git","vercel"],
+    github:"https://github.com/prabhattopi/ImageGallery",
+    demo:"https://image-gallery-one-silk.vercel.app"
   },
   {
     id:4,

@@ -17,11 +17,11 @@ const About = () => {
         </div>
         <div className="about__content">
         <div className="about__cards">
-          {/* <article className="about__card">
+          <article className="about__card">
             <FaAward className='about__icons'/>
             <h5>Experience</h5>
-            <small>3+ Years of Experience</small>
-          </article> */}
+            <small>1+ Years of Experience</small>
+          </article>
           <article className="about__card">
           <VscFolderLibrary className='about__icons'/>
            
@@ -35,7 +35,7 @@ const About = () => {
           </article>
         </div>
         <p>
-        A Full-Stack Web Developer with 1000+ hours of hands-on coding experience, looking for new challenges to tackle and acquire new skills simultaneously. A quick learner who can adapt to new situations, with expertise in both front-end and back-end development. Handles any part of the process with ease, and also has remote collaboration and teamwork with 4+ projects.
+        Experience in a product-based environment for 8 months as an automation engineer and with more than 2 years of hands-on experience developing MERN Stack. Knowledgeable of all aspects of the production process of a real-time video streaming application. Proactive in solving complex problems. Collaboration with team members is top-notch.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
