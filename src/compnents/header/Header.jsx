@@ -3,9 +3,11 @@ import CTA from './CTA'
 import ME from "../../assets/img/header-img.svg"
 import "./header.css"
 import HeaderSocial from './HeaderSocial'
+import ThreeBackground from "./ThreeBackground";
 const Header = () => {
   return (
-   <header>
+   <header id="home">
+    <ThreeBackground />
     <div className="container header__container">
       <h5>
         Hello I'm

@@ -9,12 +9,12 @@ import {FiDribbble} from "react-icons/fi"
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>
+      <a href="#home" className='footer__logo'>
         PRABHAT
 
       </a>
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
+        <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
@@ -25,12 +25,12 @@ const Footer = () => {
          
       </ul>
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/prabhat-singh-71296721b/" target="_blank"><BsLinkedin/></a>
-        <a href="https://github.com/prabhattopi" target="_blank"><FaGithub/></a>
-        <a href="https://www.facebook.com/profile.php?id=100080030157284" target="_blank"><FaFacebookF/></a>
-        <a href="https://instagram.com" target="_blank"><FiInstagram/></a>
-        <a href="https://twitter.com/NumericalWallah" target="_blank"><IoLogoTwitter/></a>
-        <a href="https://dribble.com" target="_blank"><FiDribbble/></a>
+        <a href="https://www.linkedin.com/in/prabhat-ranjan-singh-71296721b/" target="_blank" rel="noreferrer"><BsLinkedin/></a>
+        <a href="https://github.com/prabhattopi" target="_blank" rel="noreferrer"><FaGithub/></a>
+        <a href="https://www.facebook.com/profile.php?id=100080030157284" target="_blank" rel="noreferrer"><FaFacebookF/></a>
+        <a href="https://instagram.com" target="_blank" rel="noreferrer"><FiInstagram/></a>
+        <a href="https://twitter.com/NumericalWallah" target="_blank" rel="noreferrer"><IoLogoTwitter/></a>
+        <a href="https://dribble.com" target="_blank" rel="noreferrer"><FiDribbble/></a>
         {/* <a href="https://facebook.com"></a> */}
 
 
