@@ -6,7 +6,7 @@ import HeaderSocial from './HeaderSocial'
 import ThreeBackground from "./ThreeBackground";
 const Header = () => {
   return (
-   <header>
+   <header id="home">
     <ThreeBackground />
     <div className="container header__container">
       <h5>

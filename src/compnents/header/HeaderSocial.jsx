@@ -6,9 +6,9 @@ import {FiDribbble} from "react-icons/fi"
 const HeaderSocial = () => {
   return (
     <div className='header__socials'>
-        <a href="https://www.linkedin.com/in/prabhat-singh-71296721b/" target="_blank"><BsLinkedin/></a>
-        <a href="https://github.com/prabhattopi" target="_blank"><FaGithub/></a>
-        <a href="https://dribble.com" target="_blank"><FiDribbble/></a>
+        <a href="https://www.linkedin.com/in/prabhat-ranjan-singh-71296721b/" target="_blank" rel="noreferrer"><BsLinkedin/></a>
+        <a href="https://github.com/prabhattopi" target="_blank" rel="noreferrer"><FaGithub/></a>
+        <a href="https://dribble.com" target="_blank" rel="noreferrer"><FiDribbble/></a>
 
     </div>
   )

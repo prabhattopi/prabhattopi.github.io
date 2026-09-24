@@ -1,13 +1,8 @@
 import React, { useState } from 'react';
 import './Nav.css';
-import { AiOutlineHome } from 'react-icons/ai';
-import { AiOutlineUser } from 'react-icons/ai';
-import { BiBook } from 'react-icons/bi';
-import { RiServiceLine } from 'react-icons/ri';
-import { BiMessageSquareDetail } from 'react-icons/bi';
 import ME from "../../assets/img/perfil.jpg"
 const StickyNav = () => {
-  const [activeNav, setActiveNav] = useState('#');
+  const [activeNav, setActiveNav] = useState('#home');
 
   const handleNavLinkClick = (target) => {
     setActiveNav(target);
@@ -19,13 +14,13 @@ const StickyNav = () => {
   return (
     <div className="sticky-nav">
         <div className='img_source'>
-            <img width="100%" height="100%" style={{objectFit:"cover",borderRadius:"50%"}} src={ME} alt="header image" />
+            <img width="100%" height="100%" style={{objectFit:"cover",borderRadius:"50%"}} src={ME} alt="profile" />
         </div>
         <div className='link_source'>
         <a
-        href="#"
-        onClick={() => handleNavLinkClick('#')}
-        className={activeNav === '#' ? 'active' : ''}
+        href="#home"
+        onClick={() => handleNavLinkClick('#home')}
+        className={activeNav === '#home' ? 'active' : ''}
       >
        Home
       </a>

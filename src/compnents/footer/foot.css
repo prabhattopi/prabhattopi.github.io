@@ -1,72 +1,67 @@
-footer{
-    background: rgb(105, 180, 223);
-    padding: 3rem 0;
-    text-align: center;
-    font-size: 0.9rem;
-    margin-top: 7rem;
-    
+footer {
+  background: linear-gradient(135deg, rgba(12, 20, 37, 0.95), rgba(8, 13, 24, 0.95));
+  border-top: 1px solid var(--color-border);
+  padding: 3.2rem 0 1.5rem;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 7rem;
 }
-footer a{
-    color: var(--color-bg);
 
-
+footer a {
+  color: var(--color-light);
 }
-.footer__logo{
-    font-size: 2rem;
-    font-weight: 500;
-    margin-bottom:2rem ;
-    display: inline-block;
 
+.footer__logo {
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  margin-bottom: 1.4rem;
+  display: inline-block;
+  color: var(--color-white);
 }
-.permalinks{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 0 auto 3rem;
 
-
-
+.permalinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.3rem;
+  margin: 0 auto 2.2rem;
 }
-.footer__socials{
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 4rem;
 
+.footer__socials {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  margin-bottom: 2rem;
 }
-.footer__socials a{
-    background:var(--color-bg);
-    color: var(--color-white);
-    padding: 0.8rem;
-    border-radius: 0.7rem;
-    -webkit-border-radius: 0.7rem;
-    -moz-border-radius: 0.7rem;
-    -ms-border-radius: 0.7rem;
-    -o-border-radius: 0.7rem;
-    display: flex;
-    border: 1px solid transparent;
 
+.footer__socials a {
+  background: rgba(124, 155, 255, 0.1);
+  color: var(--color-white);
+  width: 2.35rem;
+  height: 2.35rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--color-border);
 }
-.footer__socials a:hover{
-    background: transparent;
-    color: var(--color-bg);
-    border-color: var(--color-bg-primary);
-    
-}
-.footer__copyright{
-    margin-bottom:4rem;
-    color: var(--color-bg);
 
+.footer__socials a:hover {
+  background: linear-gradient(145deg, var(--color-primary), #4fc3ff);
+  color: #071022;
 }
-@media screen and (max-width:600px){
-    .permalinks {
-        flex-direction:column;
-        gap: 1.5rem;
 
-    }
-    .footer__socials{
-        margin-bottom: 2.6rem;
-    }
-    
+.footer__copyright {
+  color: var(--color-light);
+}
+
+@media screen and (max-width: 600px) {
+  .permalinks {
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .footer__socials {
+    margin-bottom: 1.4rem;
+  }
 }
